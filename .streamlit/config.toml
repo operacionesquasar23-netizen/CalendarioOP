@@ -1,0 +1,14 @@
+# Colocar este archivo en una carpeta llamada ".streamlit" junto a CalendarioOP.py
+# (queda como  .streamlit/config.toml). Paleta: azul marino y arena.
+[theme]
+base = "light"
+primaryColor = "#1F3A5F"
+backgroundColor = "#F2EFEA"
+secondaryBackgroundColor = "#E8E1D8"
+textColor = "#1F3A5F"
+
+[theme.sidebar]
+backgroundColor = "#1F3A5F"
+secondaryBackgroundColor = "#2B4B75"
+textColor = "#FFFFFF"
+primaryColor = "#C9B29B"
